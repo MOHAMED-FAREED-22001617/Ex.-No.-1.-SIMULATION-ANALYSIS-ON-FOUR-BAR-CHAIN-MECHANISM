@@ -53,10 +53,11 @@
 
 
 ## Output:
+![272220155-e29f0c65-4482-4373-a785-2378ca59c527](https://github.com/MOHAMED-FAREED-22001617/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/121412904/1e910eda-55a3-43bf-8b91-a15a3bf1cbc7)
 
 
-### Name:
-### Register Number: 
+### Name:MOHAMED FAREED F
+### Register Number: 212222230082
 
 ## RESULT:
- ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
